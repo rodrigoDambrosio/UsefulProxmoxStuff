@@ -1,4 +1,4 @@
-# UsefulPromoxStuff
+# UsefulProxmoxStuff
 
 # Check temps
 
